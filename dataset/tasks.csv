@@ -1,20 +1,20 @@
 task_id,task_name,section_id,section_name
-TASK-001,,SEC-001,
-TASK-002,,SEC-001,
-TASK-003,,SEC-002,
-TASK-004,,SEC-002,
-TASK-005,,SEC-002,
-TASK-006,,SEC-002,
-TASK-007,,SEC-003,
-TASK-008,,SEC-003,
-TASK-009,,SEC-003,
-TASK-010,,SEC-004,
-TASK-011,,SEC-004,
-TASK-012,,SEC-004,
-TASK-013,,SEC-005,
-TASK-014,,SEC-005,
-TASK-015,,SEC-005,
-TASK-016,,SEC-006,
-TASK-017,,SEC-006,
-TASK-018,,SEC-006,
-TASK-019,,SEC-006,
+TASK-001,Register new motor vehicles and issue registration numbers.,SEC-001,Vehicle Registration
+TASK-002,Process the transfer of vehicle ownership.,SEC-001,Vehicle Registration
+TASK-003,Conduct theoretical and practical examinations for new driver's licenses.,SEC-002,Driver Licensing
+TASK-004,Process the renewal and reissue of driving licenses.,SEC-002,Driver Licensing
+TASK-005,Issue international driving permits.,SEC-002,Driver Licensing
+TASK-006,Manage license endorsements for different vehicle classes.,SEC-002,Driver Licensing
+TASK-007,Issue annual revenue licenses for all types of vehicles.,SEC-003,Vehicle Licensing & Revenue
+TASK-008,Collect road taxes and other government levies on vehicles.,SEC-003,Vehicle Licensing & Revenue
+TASK-009,Process refunds for overpaid taxes or surrendered licenses.,SEC-003,Vehicle Licensing & Revenue
+TASK-010,Conduct vehicle inspections for roadworthiness and emissions.,SEC-004,Technical Inspection & Fitness
+TASK-011,Maintain records of vehicle modifications and certifications.,SEC-004,Technical Inspection & Fitness
+TASK-012,Issue vehicle fitness certificates (VFC) for commercial vehicles.,SEC-004,Technical Inspection & Fitness
+TASK-013,Provide access to online services for license and registration checks.,SEC-005,Public Information & Services
+TASK-014,Manage public inquiries and complaints related to traffic regulations.,SEC-005,Public Information & Services
+TASK-015,Publish reports and statistics on vehicle registrations.,SEC-005,Public Information & Services
+TASK-016,Collaborate with law enforcement on vehicle-related legal matters.,SEC-006,Road Safety & Law Enforcement
+TASK-017,Maintain a database of traffic violations and demerit points for drivers.,SEC-006,Road Safety & Law Enforcement
+TASK-018,Develop and implement road safety awareness campaigns.,SEC-006,Road Safety & Law Enforcement
+TASK-019,Manage the suspension and revocation of driving licenses.,SEC-006,Road Safety & Law Enforcement
